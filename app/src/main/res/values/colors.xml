@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="newcolors">#26532B</color>
+    <color name="BGCOLOR">#e9c46a</color>
+    <color name="toolbarbackground">#ba181b</color>
+    <color name="appname">#b9baa3</color>
+</resources>
